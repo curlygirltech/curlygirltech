@@ -1,4 +1,4 @@
-# README
+
 <h1 align="center">Hey! I'm Jovi 👋🏾</h1>
 <h3 align="center">I’m a Software Engineer proficient in Full Stack development. I have extensive knowledge in Javascript, React, Typescript, and Ruby on Rails with experience in react native. I'm also a content creator passionate about helping women of color with nontraditional backgrounds break into tech by sharing resources and opportunities. </h3>
 
